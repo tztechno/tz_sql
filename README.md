@@ -1,5 +1,7 @@
 # tz_sql
 
+
+```
 SELECT: データを取得するために使用されます。
 SELECT column1, column2 FROM table WHERE condition;
 
@@ -43,3 +45,4 @@ SELECT column1, COUNT(*) FROM table GROUP BY column1;
 ORDER BY: 結果を指定した列で並び替えます。
 SELECT column1, column2 FROM table ORDER BY column1 ASC, column2 DESC;
 
+```
