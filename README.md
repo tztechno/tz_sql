@@ -2,6 +2,7 @@
 
 
 ```
+
 SELECT: データを取得するために使用されます。
 SELECT column1, column2 FROM table WHERE condition;
 
